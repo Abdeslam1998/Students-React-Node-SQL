@@ -1,9 +1,9 @@
 # StudentsReactNodeSQL 
 ---------------------------------
-## host : localhost
-## user : root
-## password :
-## db : reactmysql
+## host : 'localhost'
+## user : 'root'
+## password : ''
+## db : 'reactmysql'
 ---------------------------------
 ### CREATE TABLE IF NOT EXISTS `students` (
 ### id int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
